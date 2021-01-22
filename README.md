@@ -6,7 +6,7 @@ This is just for the Github Pages https://ezeutno.github.io/Cellmunity/index.htm
 ## Contributon
 <p>
   <a href="https://github.com/ezeutno">
-    <img width="50" src="https://avatars0.githubusercontent.com/u/60089509?s=460&v=4" alt="Ivan Ezechial Suratno">
+    <img width="50" src="https://avatars0.githubusercontent.com/u/32078894?s=460&v=4" alt="Ivan Ezechial Suratno">
   </a>
   <a href="https://github.com/davidhonasan">
     <img width="50" src="https://avatars2.githubusercontent.com/u/32080588?s=460&v=4" alt="David Honasan">
